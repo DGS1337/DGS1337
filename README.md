@@ -31,4 +31,4 @@
 <br><br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
-  ...
+  
